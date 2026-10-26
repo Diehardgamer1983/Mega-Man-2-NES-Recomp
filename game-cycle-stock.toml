@@ -1,0 +1,5 @@
+[game]
+name = "Mega Man 2 (USA)"
+output_prefix = "zelda_stock"
+console = "nes"
+cycle_accurate = true
